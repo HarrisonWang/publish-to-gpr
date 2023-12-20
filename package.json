@@ -1,0 +1,22 @@
+{
+  "name": "@harrisonwang/publish-to-gpr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarrisonWang/publish-to-gpr.git"
+  },
+  "author": "Harrison Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarrisonWang/publish-to-gpr/issues"
+  },
+  "homepage": "https://github.com/HarrisonWang/publish-to-gpr#readme",
+  "publishConfig": {
+    "@harrisonwang:registry": "https://npm.pkg.github.com"
+  }
+}
